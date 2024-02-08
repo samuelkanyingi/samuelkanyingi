@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm samuel
-I’m a software engineer specializing in building web apps add impact the community. i mainly program in python but i also am proficient in c, html, css and javascript.I love clean code and well written code with best practices.
+I’m a software engineer specializing in building web apps add impact the community. i mainly program in python but i also am proficient in c, html, css and javascript.I love clean code and well-written code with best practices.
 - 🌱 I’m currently learning software engineering by courtesy of AlX.
 - 📫 How to reach me: samuelkanyingi2016@gmail.com
 - ⚡ Fun fact: The term "debugging" was coined by Grace Hopper when she removed a moth from a computer relay in 1947, marking the first instance of "debugging" a computer system.
